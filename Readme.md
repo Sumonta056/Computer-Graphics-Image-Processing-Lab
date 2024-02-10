@@ -1,14 +1,12 @@
 <div align = "center">
 
-### 🧠 Computer Graphics and Image Processing
+## 🧠 Computer Graphics and Image Processing
 
------- **📚 Assignment 1 : Bresenham's Line Drawing Algorithm 📚** ------
+------ **📚 All Assignments , Practice and Final Notes on Computer Graphics 📚** ------
 
-#### ✍️ NodeJs API, mySQL and Docker Tutorial : **([👉 Video Link](https://youtu.be/8L3zwbnPugs?si=TcPRBw3TfebEBC57))** **([👉 Code Link](https://github.com/getarrays/nodejsapi/blob/master/src/controller/patient.controller.js))**
-
+#### ✍️ Daily Class Note & Lectures (by Me) : **([👉 Click Here](https://github.com/Sumonta056/SWE-4-1-Semester-Resources/tree/main/Computer%20Graphics%20and%20Image%20Processing))** 
 <hr>
 </div>
 
-## 🌲 Run The Project using Docker Container
+## 📌 Assignment - 1 (Bresenham's Line Drawing Algorithm) : **([👉 Click Here](./Assignment%20-%201%20(Bresenham's%20Line)/))** 
 
-- **👉 Check any Container Running**
